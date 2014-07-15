@@ -1,0 +1,15 @@
+SMAP
+_cookie__jsp.java
+JSP
+*S JSP
+*F
++ 1 cookie.jsp
+WEB-INF/mall/cookie.jsp
+*L
+1#1,4:54
+4#1:58
+8#1,2:59,2
+9#1:62
+55#1:63,2
+60#1:65
+*E
